@@ -12,7 +12,7 @@
 
 * Founded in 2017
 
-* Private Company, <div style="display: inline">Masterworks.io</div> LLC 
+* Private Company, Masterworks.io LLC 
 
 ### Founders
 
@@ -39,9 +39,7 @@ Masterworks is building a platform to securitize fine art by filing paintings wi
 
 Founder & CEO, Scott Lynn has been investing and collecting contemporary art for the past 15 years. As an eartly internet entrepreneur with a focus on online advertising, martech and fintech, Scott founded, acquired, sold, or remained controlling shareholder in over a dozen tech companies.
 
-[<img src="./images/Linked.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
-
-Scott's initial interest in art came from his mom who was doing amature painting. Following his early entrpreneurial succeses, Scott started  collecting art. The first piece he purchased when he was 19 was one of the largest collections of Picasso[^1] ceramics and he held those for a long time before ultimately donating them. He learned that a big name does not necessarily result in a gain. Later on, Scott made substantial gains in art trading, but realized that the art asset class has historically only been available to ultra-wealthy individuals with millions of dollars to invest in a single work of art. The idea was born to create a new asset class for retail and institutional investors by offering fractional shares of artwork by 'blue-chip' artists like Money, Warhol, and others.
+Scott's initial interest in art came from his mom who was doing amature painting. Following his early entrpreneurial succeses, Scott started  collecting art. The first piece he purchased when he was 19 was one of the largest collections of Picasso ceramics[^first] and he held those for a long time before ultimately donating them. He learned that a big name does not necessarily result in a gain. Later on, Scott made substantial gains in art trading, but realized that the art asset class has historically only been available to ultra-wealthy individuals with millions of dollars to invest in a single work of art. The idea was born to create a new asset class for retail and institutional investors by offering fractional shares of artwork by 'blue-chip' artists like Money, Warhol, and others.
 
 Next step is moving upstream to larger pools of capital, soon to be announcing a Fund product where investors can invest giving them exposure to art as an asset class as opposed to picking and choosing specific paintings. 
 
@@ -96,7 +94,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 
 ## Resources
-[^1]:https://www.masterworks.io/
+[^first]: https://www.masterworks.io/
 
 https://whatgotyouthere.com/portfolio/scott-lynn/
 
@@ -130,5 +128,8 @@ https://www.youtube.com/watch?time_continue=2&v=DM4nOeq5GcQ&feature=emb_logo
 
 https://arttactic.com/podcast/scott-lynn-masterworks/
 
+
+
+[^2]: ![Picasso Ceramics](https://miro.medium.com/max/2000/1*HRkgQB-oVzgdBBq3tJgXBQ.jpeg)
 
 ```
