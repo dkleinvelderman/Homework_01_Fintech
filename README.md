@@ -18,15 +18,15 @@
 
 **Scott Lynn- Founder & CEO**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/6sctUV7ulV5yMA1XgBPFji/49745d3f18054b352b7a3aec192aa6e4/scott.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linked.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/scott-lynn-b0486227/) 
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/6sctUV7ulV5yMA1XgBPFji/49745d3f18054b352b7a3aec192aa6e4/scott.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/scott-lynn-b0486227/) 
 
 **Alberto Simon - Co-Founder & Head of Product**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/5HvUmhYusTSy8QIjWbwgWy/8cec04704886e59c850a8bc966707288/alberto.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linked.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/albertosimon/)
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/5HvUmhYusTSy8QIjWbwgWy/8cec04704886e59c850a8bc966707288/alberto.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/albertosimon/)
 
 **Hai Minh Tran - Co-Founder & Head of Design**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/71yavXXBspSQS7qZwCJRXn/5c11a8702c1925b04454f50faef5a40c/hai.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linked.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/71yavXXBspSQS7qZwCJRXn/5c11a8702c1925b04454f50faef5a40c/hai.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
 
 
 ### Financing
