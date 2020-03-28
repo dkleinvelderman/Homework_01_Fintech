@@ -8,7 +8,7 @@
 
 **<div style="display: inline">Masterworks.io</div>**
 
-* Website: masterworks.io
+* Website: "masterworks.io"
 
 * Founded in 2017
 
