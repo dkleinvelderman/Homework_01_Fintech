@@ -8,7 +8,7 @@
 
 **<div style="display: inline">Masterworks.io</div>**
 
-* Website: "masterworks.io"
+* Website: [Masterworks.io](https://masterworks.io)
 
 * Founded in 2017
 
@@ -18,26 +18,28 @@
 
 **Scott Lynn- Founder & CEO**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/6sctUV7ulV5yMA1XgBPFji/49745d3f18054b352b7a3aec192aa6e4/scott.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/scott-lynn-b0486227/) 
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/6sctUV7ulV5yMA1XgBPFji/49745d3f18054b352b7a3aec192aa6e4/scott.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/Linked.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/scott-lynn-b0486227/) 
 
 **Alberto Simon - Co-Founder & Head of Product**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/5HvUmhYusTSy8QIjWbwgWy/8cec04704886e59c850a8bc966707288/alberto.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/albertosimon/)
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/5HvUmhYusTSy8QIjWbwgWy/8cec04704886e59c850a8bc966707288/alberto.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/Linked.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/albertosimon/)
 
 **Hai Minh Tran - Co-Founder & Head of Design**
 
-<img src="https://images.ctfassets.net/u7fuap5iqsvx/71yavXXBspSQS7qZwCJRXn/5c11a8702c1925b04454f50faef5a40c/hai.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/linkedin.jpg" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
+<img src="https://images.ctfassets.net/u7fuap5iqsvx/71yavXXBspSQS7qZwCJRXn/5c11a8702c1925b04454f50faef5a40c/hai.jpg?fm=webp&h=838&w=560" alt="drawing" width="100"/> [<img src="./images/Linked.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
 
 
 ### Financing
 
-Early stage Venture Capital Backed for an undisclosed amount by LoupVentures on May 16, 2019
+Early stage Venture Capital Backed for an undisclosed amount by LoupVentures on May 16, 2019.
 
 ### General Information
 
 Masterworks is building a platform to securitize fine art by filing paintings with the SEC. For the first time ever, investors can purchase and trade shares in multi-million dollar works of art by artists like Picasso, Monet, and Warhol.
 
 Founder & CEO, Scott Lynn has been investing and collecting contemporary art for the past 15 years. As an eartly internet entrepreneur with a focus on online advertising, martech and fintech, Scott founded, acquired, sold, or remained controlling shareholder in over a dozen tech companies.
+
+[<img src="./images/Linked.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/hai-tran-91980931/)
 
 Scott's initial interest in art came from his mom who was doing amature painting. Following his early entrpreneurial succeses, Scott started  collecting art. The first piece he purchased when he was 19 was one of the largest collections of Picasso[^1] ceramics and he held those for a long time before ultimately donating them. He learned that a big name does not necessarily result in a gain. Later on, Scott made substantial gains in art trading, but realized that the art asset class has historically only been available to ultra-wealthy individuals with millions of dollars to invest in a single work of art. The idea was born to create a new asset class for retail and institutional investors by offering fractional shares of artwork by 'blue-chip' artists like Money, Warhol, and others.
 
