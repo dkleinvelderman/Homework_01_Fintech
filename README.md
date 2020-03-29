@@ -100,7 +100,7 @@ Next step is moving upstream to larger pools of capital, soon to be announcing a
 
 * What technologies would this additional product or service utilize?
     * The search tool would require image regoconition, which involves a major step of gathering and organizing data, build a predicitive model and use it to recognize images. Suggestion would be -depending on cost- exploring opportunities to incorporate exisiting tooling from a vendor.
-    * SEPA/iDEAL integration can be achieved by utilizing standardized tools. iDEAL For instance is based on the SEPA Credit Transfer and consists of a collection of technical agreements and standards (a protocol) between banks and transaction processors.
+    * SEPA/iDEAL integration can be achieved by utilizing standardized tools. iDEAL For instance is based on the SEPA Credit Transfer and consists of a collection of technical agreements and standards (a protocol) between banks and transaction [processors](https://www.ideal.nl/en/ideal-information/).
 
 
 
