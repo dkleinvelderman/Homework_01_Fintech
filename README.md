@@ -163,7 +163,7 @@ https://www.youtube.com/watch?time_continue=2&v=DM4nOeq5GcQ&feature=emb_logo
 
 https://arttactic.com/podcast/scott-lynn-masterworks/
 
-https://www.plugandplaytechcenter.com/resources/trends-wealth-management-you-should-keep-eye-on/\
+https://www.plugandplaytechcenter.com/resources/trends-wealth-management-you-should-keep-eye-on/
 
 https://wallethacks.com/masterworks-review/
 
