@@ -14,6 +14,10 @@
 
 * Private Company, Masterworks.io LLC 
 
+* [28 Employees](https://www.linkedin.com/company/masterworks-io/people/)
+
+* [497 Broome St, New York, New York, United States, 10013](https://goo.gl/maps/DNwp2jvLjbMHKTrJ7)
+
 ### Founders
 
 **Scott Lynn- Founder & CEO**
@@ -43,18 +47,7 @@ Scott's initial interest in art came from his mom who was doing amature painting
 
 Next step is moving upstream to larger pools of capital, soon to be announcing a Fund product where investors can invest giving them exposure to art as an asset class as opposed to picking and choosing specific paintings. 
 
-New York is the only city where they can do this business, the entire art world and financial market is here.
-
-2% annual fee 20% on profit (PE model)
-
-
-offering the painting to what they paid for it
-Price per share is $20 per share
-Trading platform is on the horizon (like a nasdaq)
-
-Blockchain is involved - from a infrastructure perspective the back end sits on blockchain. pre populate tokens on exchanges which are likely becoming licensed to trade registered securities, giving the ability to trade them more freely. 
-
-## Business Activities:
+## Business Activities
 
 * What specific financial problem is the company or project trying to solve? 
     * Even though art is an asset class that offers needed and sought after diversification of ones investment portfolio, access to blue-chip art investments has been limited to the ultra rich. Moreover, the pieces will be removed from public display when they enter private collections. Masterworks enables blue-chip art investments for virtually anyone.
@@ -68,7 +61,7 @@ Blockchain is involved - from a infrastructure perspective the back end sits on 
     * To accept payments for shares electronically, Masterworks tuned to the payments platform of [Dwolla.](https://www.prweb.com/releases/masterworks_is_partnering_with_dwolla_inc_to_revolutionize_fine_art_investing/prweb15967877.htm)
     * Masterworks' platform uses blockchain technology and is based on the Ethereum blockchain, ERC20 protocol. The platform allows investors to monitor the performance of the painting and their concerning shares over time. As it appreciates, investors can decide selling their shares for a profit. Eventually investors will be able to use Ethereum tokens to complete transactions of Masterworks' own [platform](https://thecollegeinvestor.com/23435/masterworks-review/) or any other cryto-currency exchange licensed to trade registered securities.
 
-## Landscape:
+## Landscape
 
 * What domain of the financial industry is the company in?
     
@@ -85,9 +78,10 @@ Blockchain is involved - from a infrastructure perspective the back end sits on 
 ## Results
 
 * What has been the business impact of this company so far?
-    * On the surface Masterworks appears to moving towards a disruption of an old and hard to reach asset class. However, the fee structure of Masterworks resembles that of a hedge fund. As such, Masterworks charges [1.5% annual management fee plus 20% future profit](https://www.masterworks.io/), a quite significant fee. Also, even though the art-asset class [outperforms the S&P500](https://www2.deloitte.com/lu/en/pages/art-finance/articles/art-finance-report.html), these calculations are based on an index, ie you have to own several paintings to get the desired return. Furthemore, the Masterworks platform has not been fully built out yet. Shortly it will offer the opportunity to trade shares. Because of the aforementioned, various investment ranking-sites give Masterworks a [fair](https://thecollegeinvestor.com/23435/masterworks-review/) to [good](https://wallethacks.com/masterworks-review/) rating.
+    * On the surface Masterworks appears to moving towards a disruption of an old and hard to reach asset class. However, the fee structure of Masterworks resembles that of a hedge fund. As such, Masterworks charges [1.5% annual management fee plus 20% future profit](https://www.masterworks.io/), a quite significant fee. Also, even though the art-asset class [outperforms the S&P500](https://www2.deloitte.com/lu/en/pages/art-finance/articles/art-finance-report.html) these calculations are based on an index, ie you have to own several paintings to get the desired return. Furthemore, the Masterworks platform has not been fully built out yet. Shortly it will offer the opportunity to trade shares. Because of the aforementioned, various investment ranking-sites give Masterworks a [fair](https://thecollegeinvestor.com/23435/masterworks-review/) to [good](https://wallethacks.com/masterworks-review/) rating.
 
     * Currently, Masterworks acquired six paintings: [Warhol](https://www.sec.gov/Archives/edgar/data/1738134/000149315219013454/form253g2.htm), [Banksy](https://www.sec.gov/Archives/edgar/data/1781737/000149315219014783/form253g2.htm), [Wood](https://www.sec.gov/Archives/edgar/data/1791539/000149315219019439/form253g2.htm), [Katz](https://www.sec.gov/Archives/edgar/data/1794758/000149315220000552/form253g2.htm), [Basquiat](https://www.sec.gov/Archives/edgar/data/1800977/000149315220004188/form253g2.htm) and [Monet](https://www.sec.gov/Archives/edgar/data/1750148/000149315219016415/form253g2.htm). The two former are currently in offering, the 4 latter are 100% funded. As such, it appears there is a lot of interest in the service Masterworks offers. It goes without saying that it remains to be seen what the returns will be once the painting sell.
+
         
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
     * Metrics of success involve the percentage of funding and gains upon sale. The fomer appears to be a succes due to 100% funding of the four closed offerings. The gains have yet to show.  
@@ -97,16 +91,18 @@ Blockchain is involved - from a infrastructure perspective the back end sits on 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? Why do you think that offering this product or service would benefit the company? Why are these technologies appropriate for your solution?
     * Instead of buying the paintings and then fractionalizing them, I would think it would be even more interesting for the art-enthusiast and investor to be involved in the actual bidding process; ie bid together with the investors.
     * Going forward I would not limit the platform to paintings. There are many other interesting and worthwile sub-classes. One that may not be as obvious is the classic vehicle segment.
+    * Incorporating a search tool for undiscovered pieces based on data, eg description crawling, image recognition, may unearth vast opportunities on the internet. Enabling arbitrage on a global level (eg, compare a vintage Alfa Romeo in Italy vs USA, paintings 'in hiding').
+    * Enable SEPA/iDEAL payments for overseas investors.
     * the 1.5/20 fee approach may be regarded as quite steep. Suggestion would be to explore opportunities in view of a flat fee for instance, especially since the management fee implies uncertainty on the outcome and moves away from an 'in this together'-approach.
 
-* Why do you think that offering this product or service would benefit the company?
-
 * What technologies would this additional product or service utilize?
+    * The search tool would require image regoconition, which involves a major step of gathering and organizing data, build a predicitive model and use it to recognize images. Suggestion would be -depending on cost- exploring opportunities to incorporate exisiting tooling from a vendor.
+    * SEPA/iDEAL integration can be achieved by utilizing standardized tools. iDEAL For instance is based on the SEPA Credit Transfer and consists of a collection of technical agreements and standards (a protocol) between banks and transaction processors.
 
-* Why are these technologies appropriate for your solution?
+
 
 
 ## Resources :roller_coaster:
