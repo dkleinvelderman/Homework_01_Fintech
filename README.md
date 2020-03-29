@@ -43,7 +43,7 @@ Masterworks is building a platform to securitize fine art by filing paintings wi
 
 Founder & CEO, Scott Lynn has been investing and collecting contemporary art for the past 15 years. As an eartly internet entrepreneur with a focus on online advertising, martech and fintech, Scott founded, acquired, sold, or remained controlling shareholder in over a dozen tech companies.
 
-Scott's initial interest in art came from his mom who was doing amature painting. Following his early entrpreneurial succeses, Scott started  collecting art. The first piece he purchased when he was 19 was one of the largest collections of Picasso ceramics and he held those for a long time before ultimately donating them. He learned that a big name does not necessarily result in a gain. Later on, Scott made substantial gains in art trading, but realized that the art asset class has historically only been available to ultra-wealthy individuals with millions of dollars to invest in a single work of art. The idea was born to create a new asset class for retail and institutional investors by offering fractional shares of artwork by 'blue-chip' artists like Money, Warhol, and others.
+Scott's initial interest in art came from his mom who was doing amature painting. Following his early entrpreneurial successes, Scott started  collecting art. The first piece he purchased when he was 19 was one of the largest collections of Picasso ceramics and he held those for a long time before ultimately donating them. He learned that a big name does not necessarily result in a gain. Later on, Scott made substantial gains in art trading, but realized that the art asset class has historically only been available to ultra-wealthy individuals with millions of dollars to invest in a single work of art. The idea was born to create a new asset class for retail and institutional investors by offering fractional shares of artwork by 'blue-chip' artists like Money, Warhol, and others.
 
 Next step is moving upstream to larger pools of capital, soon to be announcing a Fund product where investors can invest giving them exposure to art as an asset class as opposed to picking and choosing specific paintings. 
 
@@ -153,6 +153,6 @@ https://www.plugandplaytechcenter.com/resources/trends-wealth-management-you-sho
 
 https://wallethacks.com/masterworks-review/
 
-
+https://www.ideal.nl/en/ideal-information/
 
 ```
