@@ -47,6 +47,17 @@ Scott's initial interest in art came from his mom who was an amature painter. Fo
 
 Next step for Masterworks is moving upstream to larger pools of capital, soon to be announcing a fund product giving investors exposure to art as an asset class as opposed to picking and choosing specific paintings. 
 
+### Key Investment Features
+|                       |                                   |        
+|-----------------------|-----------------------------------|
+|Share Price            | $20                               |
+|Minimum Investment     | $1,000                            |  
+|Maximum Shareholding   | 10%                               |
+|Fees                   | 1.5% annually plus 20% at sale    | 
+|Investment Length      | approx 5 - 10 years               |
+
+
+
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve? 
