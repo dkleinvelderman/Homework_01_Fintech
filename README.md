@@ -48,13 +48,14 @@ Scott's initial interest in art came from his mom who was an amature painter. Fo
 Next step for Masterworks is moving upstream to larger pools of capital, soon to be announcing a fund product giving investors exposure to art as an asset class as opposed to picking and choosing specific paintings. 
 
 ### Key Investment Features
+
 |                       |                                   |        
 |-----------------------|-----------------------------------|
 |Share Price            | $20                               |
 |Minimum Investment     | $1,000                            |  
 |Maximum Shareholding   | 10%                               |
 |Fees                   | 1.5% annually plus 20% at sale    | 
-|Investment Length      | approx 5 - 10 years               |
+|Investment Length      | 3 - 5 years                       |
 
 
 
@@ -117,6 +118,10 @@ Next step for Masterworks is moving upstream to larger pools of capital, soon to
 ## Resources :mag_right:
 
 https://www.masterworks.io/
+
+https://www.nasdaq.com/articles/masterworks-review%3A-should-you-invest-in-tokenized-fine-art-2020-03-23
+
+https://www.cnn.com/style/article/shares-art-collecting/index.html
 
 https://www.prweb.com/releases/masterworks_is_partnering_with_dwolla_inc_to_revolutionize_fine_art_investing/prweb15967877.htm
 
